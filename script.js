@@ -6,8 +6,8 @@
 const products = [
   {
     id: 1,
-    name: "Produto 1",
-    price: 49.90,
+    name: "ecstasy",
+    price: 9.10,
     image: "https://static.dw.com/image/68793590_803.webp",
     description: "Descrição detalhada do Produto 1. Esse é um produto de alta qualidade com excelentes características."
   },
