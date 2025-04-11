@@ -7,15 +7,15 @@ const products = [
   {
     id: 1,
     name: "ecstasy",
-    price: 9.10,
+    price: 9.00,
     image: "https://static.dw.com/image/68793590_803.webp",
     description: "Descrição detalhada do Produto 1. Esse é um produto de alta qualidade com excelentes características."
   },
   {
     id: 2,
-    name: "Produto 2",
-    price: 79.90,
-    image: "https://via.placeholder.com/250x150?text=Produto+2",
+    name: "Metanfetamina",
+    price: 12.00,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoChyHlUztLOA7Kw03vIr1exmcLRKNK0-zC4lRqYaHnPgX9NrYVqBD0UK0&s=10",
     description: "Descrição detalhada do Produto 2. Ideal para quem procura eficiência e bom custo-benefício."
   },
   {
